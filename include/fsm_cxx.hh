@@ -18,6 +18,8 @@
 
 #include "fsm_cxx/fsm-sm.hh"
 
+#include "fsm_cxx/fsm-hfsm.hh"
+
 
 #include "fsm_cxx/detail/fsm-if.hh"
 

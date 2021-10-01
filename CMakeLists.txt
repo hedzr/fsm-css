@@ -44,6 +44,7 @@ set(header_files
         ${CMAKE_CURRENT_SOURCE_DIR}/include/fsm_cxx/fsm-config.hh
         ${CMAKE_CURRENT_SOURCE_DIR}/include/fsm_cxx/fsm-debug.hh
         ${CMAKE_CURRENT_SOURCE_DIR}/include/fsm_cxx/fsm-def.hh
+        ${CMAKE_CURRENT_SOURCE_DIR}/include/fsm_cxx/fsm-hfsm.hh
         ${CMAKE_CURRENT_SOURCE_DIR}/include/fsm_cxx/fsm-sm.hh
         )
 
